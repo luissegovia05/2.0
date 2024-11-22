@@ -1,0 +1,36 @@
+{
+    "users": [
+        {
+            "id": "565464",
+            "name": "lui segovia",
+            "username": "elsego",
+            "password": "666",
+            "email": "segovialuis@gmail.com",
+            "role": "Administrador"
+        },
+        {
+            "id": "7497866",
+            "name": "el bicho siu",
+            "username": "siuuuu",
+            "password": "777",
+            "email": "elsiudecr7@gmail.com",
+            "role": "Vendedor"
+        },
+        {
+            "id": "102455678",
+            "name": "Dario Mejia",
+            "username": "dmejia",
+            "password": "123",
+            "email": "dmejia@gmail.com",
+            "role": "Administrador"
+        },
+        {
+            "id": "789445",
+            "name": "Manuel Lagares",
+            "username": "mlagares",
+            "password": "123",
+            "email": "mlagares@gmail.com",
+            "role": "Vendedor"
+        }
+    ]
+}
